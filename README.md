@@ -1,6 +1,9 @@
 # Web Application for ML Prediction Models.
 
-Technology Stacks: Python&Javascript
+Techstack: 
+
+Python flask,numpy,pandas,joblib
+Web:bootstrap2
 
 ## Introduction
 
