@@ -1,9 +1,14 @@
 # Web Application for ML Prediction Models.
 
+Technology Stacks: Python&Javascript
+
 ## Introduction
 
-What will be my predicted feet size given my height and weight?
-What will be the weather given today's humidity and temperature?
-What will be the price of next hour's stock macket given data like price trend?
+What will be my predicted feet size given my data?
+What will be my predicted calorie consumption given my data ?
 
-The template structures an online machine that enables prediction with user-entered data. User could cooperate the system with any machine learning models so long as the model was trained over stuctured table data. In order to help all users to effortlessly deploy the server, a guide over how to deploy this Flask Application over Ubuntu VPS is attached   
+People always have questions and expect answers from various online predictive calculators. This template structures an online machine that enables prediction with user-entered data. Developers can cooperate the framework with any machine learning models so long as the model was trained over stuctured table data. In order to help all users to effortlessly deploy the server, a guide over how to deploy this Flask Application over Ubuntu VPS is attached  
+
+
+An Example for this framework: http://zhuformula.com/
+This website for calculating post surgury eye sight has already help patients with more than 10k calculations in last 6 months 
